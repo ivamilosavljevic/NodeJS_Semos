@@ -1,0 +1,1 @@
+Here I am writing the content to newFile.txt
